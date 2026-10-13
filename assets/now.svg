@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="44" viewBox="0 0 720 44">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="44" fill="url(#bg2)"/>
+  <rect x="0" y="0" width="720" height="1" fill="#21262d"/>
+  <rect x="0" y="43" width="720" height="1" fill="#21262d"/>
+  <text x="14" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ac54f" opacity="0.55">&gt;</text>
+  <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="12s" repeatCount="indefinite"/>
+    Industrial Technologies Engineering graduate.
+  </text>
+  <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.57;0.66;1" dur="12s" repeatCount="indefinite"/>
+    strong interest in technology, software development, cybersecurity, and innovation.
+  </text>
+  <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.67;0.90;1" dur="12s" repeatCount="indefinite"/>
+    CEO Founder of tknoglobal.
+  </text>
+  <rect x="692" y="15" width="8" height="16" fill="#5ac54f" rx="1">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+</svg>
